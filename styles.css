@@ -948,7 +948,7 @@ img {
   display: flex;
   align-items: flex-end;
   padding: 40px 24px;
-  background-image: url('images/cardImage.jpg');
+  background-image: url('images/cardImage.svg');
   background-size: cover;
   background-position: top center;
   transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
